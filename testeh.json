@@ -1,0 +1,18 @@
+{"desenho": {
+    "triangulo": [],
+    "ponto": [{
+        "esp": 8,
+        "cor": {
+            "r": 0,
+            "b": 0,
+            "g": 0
+        },
+        "x": "∞",
+        "y": ",23300",
+        "id": "ponto_1"
+    }],
+    "reta": [],
+    "mandala": [],
+    "retangulo": [],
+    "circulo": []
+}}

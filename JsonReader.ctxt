@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=JsonReader
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ JsonReader\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=larg\ alt\ nomeArq\ lPonto\ lReta\ lRetangulo\ lCirculo\ lTriangulo\ lFigura
+comment1.target=JsonReader(int,\ int,\ java.lang.String,\ ed.ListaLigadaSimples,\ ed.ListaLigadaSimples,\ ed.ListaLigadaSimples,\ ed.ListaLigadaSimples,\ ed.ListaLigadaSimples,\ ed.ListaLigadaSimples)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ JsonReader\r\n
+comment2.params=larg\ alt\ nomeArq
+comment2.target=void\ lerArquivo(int,\ int,\ java.lang.String)
+numComments=3

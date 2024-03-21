@@ -1,0 +1,21 @@
+{"desenho": {
+    "triangulo": [],
+    "ponto": [],
+    "reta": [],
+    "mandala": [],
+    "retangulo": [],
+    "circulo": [{
+        "raio": 165.01212076693034,
+        "esp": 6,
+        "centro": {
+            "x": 0.30133333333333334,
+            "y": 0.394
+        },
+        "cor": {
+            "r": 0,
+            "b": 0,
+            "g": 0
+        },
+        "id": "circulo_1"
+    }]
+}}
